@@ -1,2 +1,3 @@
+pip install python-telegram-bot
 python-telegram-bot==<version>  # Replace <version> with the desired version
 requests
